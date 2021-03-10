@@ -1,0 +1,14 @@
+# Project exclude paths
+/clode-consumer-hystrix-fegin-order80/target/
+/cloud-consumer-feign-order80/target/
+/cloud-consumer-hystrix-dashboard9001/target/
+/cloud-eureka-server7001/target/
+/cloud-eureka-server7002/target/
+/cloud-gateway-gateway9527/target/
+/cloud-provider-hystrix-pament8001/target/
+/cloude-orderconsumer-order80/target/
+/cloude-providerconsul-payment8006/target/
+/Clound-api-commons/target/
+/customer80/target/
+/payment8001/target/
+/payment8002/target/
