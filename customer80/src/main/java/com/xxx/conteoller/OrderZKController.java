@@ -61,6 +61,9 @@ public class OrderZKController {
 
         return  restTemplate.getForObject(uri+"/payment/lb",String.class);
     }
-
+    @GetMapping("consumer/payment/zipkin")
+    public String paymentZipkin(){
+        return  restTemplate.getForObject(INVOKE_URL+"/payment/zipkin",String.class);
+    }
 
 }
